@@ -2,7 +2,7 @@ html {
     width: 100vw;
     height: 100vh;
     color: white;
-    background: radial-gradient(#ffffff, #989ab8);
+    background: radial-gradient(#ffffff,  #5d5d63);
     background-repeat: no-repeat;
     box-shadow: 5px 10px 18px #888888;;
 }
