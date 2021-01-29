@@ -2,14 +2,13 @@ html {
     width: 100vw;
     height: 100vh;
     color: white;
-    background: radial-gradient(#ffffff,  #5d5d63);
-    background-repeat: no-repeat;
-    box-shadow: 5px 10px 18px #888888;;
+    background-image: url("background_632508515.jpg");
+    background-size: 100%, 100%;
 }
 
 .images {
     position: absolute;
-    top: 15%;
+    top: 12%;
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, 0%);
